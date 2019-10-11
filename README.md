@@ -13,6 +13,8 @@ Glowstone - https://github.com/GlowstoneMC/Glowstone - A minecraft server softwa
 
 Cleanstone - https://github.com/CleanstoneMC/Cleanstone - A minecraft software built from scratch that also has multi threading and a web panel
 
+Cuberite - https://github.com/minecraftserverorg/cuberite - Cuberite is a Minecraft-compatible multiplayer game server that is written in C++ and designed to be efficient with memory and CPU, as well as having a flexible Lua Plugin API. Cuberite is compatible with the Java Edition Minecraft client from minecraft 1.8 - 1.12.2
+
 LavaBukkit - https://github.com/GMatrixGames/LavaBukkit - (Currently not in development) A server software that allows for use of Forge Mods and Bukkit Plugins in the same server
 
 Lava - https://github.com/LavaPowered/Lava - The continuation of LavaBukkit
