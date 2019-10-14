@@ -37,3 +37,6 @@ PaperTestServer - https://github.com/PaperMC/PaperTestServer - A server built by
 
 ProtocolSupport - https://github.com/minecraftserverorg/ProtocolSupport - A plugin that allows minecraft players to connect to a server using 1.4.7 - 1.12.2 on a 1.12.2 server
 
+## Misc
+
+ServerBuilder - https://github.com/josephworks/serverbuilder - Builds you a minecraft server using shell script
