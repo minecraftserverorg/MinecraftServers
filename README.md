@@ -5,6 +5,8 @@ A list of Minecraft Server Softwares
 
 Paper - https://github.com/PaperMC/Paper - A "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies"
 
+Akarin - https://github.com/Akarin-project/Akarin - "Akarin is a powerful (not yet) server software from the 'new dimension'"
+
 Nukkit - https://github.com/minecraftserverorg/Nukkit - A server software that allows you to run Bukkit Plugins for Minecraft Pocket Edition
 
 Kettle - https://github.com/KettleFoundation/Kettle - A server software that allows for use of Forge Mods and Bukkit Plugins in the same server
@@ -18,6 +20,8 @@ Cuberite - https://github.com/minecraftserverorg/cuberite - Cuberite is a Minecr
 LavaBukkit - https://github.com/GMatrixGames/LavaBukkit - (Currently not in development) A server software that allows for use of Forge Mods and Bukkit Plugins in the same server
 
 Lava - https://github.com/LavaPowered/Lava - The continuation of LavaBukkit
+
+> Note: Akarin is the continuation of Torch
 
 ## Proxy
 
