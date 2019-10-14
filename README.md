@@ -29,6 +29,8 @@ BungeeCord - https://github.com/minecraftserverorg/BungeeCord - A Minecraft Prox
 
 Travertine - https://github.com/PaperMC/Travertine - "Travertine is Waterfall with additional protocols." Waterfall is a fork of the BungeeCord proxy software.
 
+Velocity - https://github.com/VelocityPowered/Velocity - A Minecraft server proxy with unparalleled server support, scalability, and flexibility.
+
 ## Servers
 
 MinecraftMultiversion - https://github.com/josephworks/MinecraftMultiversion - A Paper server with Plugins that support a vast range of vanilla Minecraft versions (1.4.7 - 1.14.4)
