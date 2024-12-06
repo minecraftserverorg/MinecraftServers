@@ -3,19 +3,21 @@ A list of Minecraft Server Softwares
 
 ## Server Softwares
 
-Paper - https://github.com/PaperMC/Paper - A "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies"
+Paper - https://github.com/PaperMC/Paper - A "High-performance Spigot fork that aims to fix gameplay and mechanics inconsistencies".
 
-Akarin - https://github.com/Akarin-project/Akarin - "Akarin is a powerful (not yet) server software from the 'new dimension'"
+Akarin - https://github.com/Akarin-project/Akarin - "Akarin is a powerful (not yet) server software from the 'new dimension'".
 
-Nukkit - https://github.com/minecraftserverorg/Nukkit - A server software that allows you to run Bukkit Plugins for Minecraft Pocket Edition
+Nukkit - https://github.com/minecraftserverorg/Nukkit - A server software that allows you to run Bukkit Plugins for Minecraft Pocket Edition.
 
-Kettle - https://github.com/KettleFoundation/Kettle - A server software that allows for use of Forge Mods and Bukkit Plugins in the same server
+Kettle - https://github.com/KettleFoundation/Kettle - A server software that allows for use of Forge Mods and Bukkit Plugins in the same server.
 
-Glowstone - https://github.com/GlowstoneMC/Glowstone - A minecraft server software built from scratch
+Pumpkin - https://github.com/Snowiiii/Pumpkin - Pumpkin is a Minecraft server built entirely in Rust, offering a fast, efficient, and customizable experience. It prioritizes performance and player enjoyment while adhering to the core mechanics of the game.
 
-Cleanstone - https://github.com/CleanstoneMC/Cleanstone - A minecraft software built from scratch that also has multi threading and a web panel
+Glowstone - https://github.com/GlowstoneMC/Glowstone - A Minecraft server software built from scratch.
 
-Cuberite - https://github.com/minecraftserverorg/cuberite - Cuberite is a Minecraft Server written in C++ and designed to be efficient with memory and CPU, as well as having a flexible Lua Plugin API. Cuberite is compatible with the Java Edition Minecraft client from minecraft 1.8 - 1.12.2
+Cleanstone - https://github.com/CleanstoneMC/Cleanstone - A Minecraft software built from scratch that also has multi-threading and a web panel.
+
+Cuberite - https://github.com/minecraftserverorg/cuberite - Cuberite is a Minecraft Server written in C++ and designed to be efficient with memory and CPU, as well as having a flexible Lua Plugin API. Cuberite is compatible with the Java Edition Minecraft client from Minecraft 1.8 - 1.12.2
 
 LavaBukkit - https://github.com/GMatrixGames/LavaBukkit - (Currently not in development) A server software that allows for use of Forge Mods and Bukkit Plugins in the same server
 
